@@ -5,6 +5,7 @@ This is the Course Project for Coursera's "[Getting and Cleaning Data](https://w
 * Create a directory for this project, called `samsung`
 * Download the script `run_analysis.R` to `samsung`
 * Download the raw data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip to `samsung` and unzip it. You can delete the zip file after this step. Your directory structure should look like this now (only showing 2 levels deep here):
+ 
   ```
   ├── UCI HAR Dataset
     │   ├── README.txt
@@ -15,6 +16,7 @@ This is the Course Project for Coursera's "[Getting and Cleaning Data](https://w
     │   └── train
     └── run_analysis.R 
   ```
+  
 ## Dependencies:
 The script `run_analysis.R` depends on the libraries `plyr` and `reshape2`. 
 
